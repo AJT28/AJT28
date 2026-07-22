@@ -1,4 +1,4 @@
-# Hi, I'm Tarun 👋
+# Hi there, I am Tarun Ajendla 
 
 🎓 MS Data Science @ Stevens Institute of Technology
 
