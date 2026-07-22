@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Tarun 👋
 
-<!--
-**AJT28/AJT28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS Data Science @ Stevens Institute of Technology
 
-Here are some ideas to get you started:
+💻 Learning:
+- DevOps
+- MLOps
+- FastAPI
+- Docker
+- Kubernetes
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Project:
+- SpeechFlow (Whisper + FastAPI Speech-to-Text API)
+
+🛠 Tech Stack:
+- Python
+- FastAPI
+- Git & GitHub
+
+📫 Connect with me:
+- LinkedIn: www.linkedin.com/in/tarun-ajendla
